@@ -1,0 +1,11 @@
+code: assets_3_images
+description: a bundle with 3 images
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  assets:
+    - assets/11/11-descriptor.yaml
+    - assets/9/9-descriptor.yaml
+    - assets/10/10-descriptor.yaml
+  categories:
+    - categories/categories-descriptor.yaml
